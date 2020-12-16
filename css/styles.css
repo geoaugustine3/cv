@@ -1,0 +1,48 @@
+
+body {
+  background-color: #EAF6F6;
+  border-style: double;
+  border-width: thick;
+  padding: 20px;
+}
+
+h1{
+color: #66BFBF;
+font-size: 2rem;
+}
+
+h3{
+color: #66BFBF;
+font-size: 1.5rem;
+}
+
+.navbar-brand{
+  font-size: 20px;
+  border: 2px solid #66BFBF;
+  padding: 5px;
+  border-radius: 100%;
+
+}
+.navbar_link_color{
+  color: #6666ff;
+}
+
+.navbar_link_color:hover{
+  color: blue;
+}
+
+.image{
+border-radius: 50%
+margin: 100px 100px 30px 0;
+}
+
+.skills_table{
+  border-spacing: 50px;
+}
+/* hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #cdc9c3;
+  border-width: 5px;
+  width: 5%;
+} */
